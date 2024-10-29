@@ -13,7 +13,7 @@ I'm a highly motivated IT professional with 20+ years of experience, specializin
 
 **Experience Highlights**
 
-* **Client Security Manager at Concentrix Webhelp:**  end-to-end security initiatives, implemented robust security measures, and ensured compliance for multiple key accounts.
+* **Global Client Security Manager at Concentrix Webhelp:**  end-to-end security initiatives, implemented robust security measures, and ensured compliance for multiple key accounts.
 * **IT Technician at Webhelp:** Provided comprehensive IT support, troubleshooting, network maintenance, and user training.
 * **IT/Dialler Manager at Voicestream Ltd:** Established and managed a 50-seat call center, implementing and configuring predictive dialler technology.
 
