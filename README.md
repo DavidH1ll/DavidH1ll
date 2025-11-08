@@ -1,6 +1,6 @@
 # David Hill 👋
 
-I'm a highly motivated IT professional with 20+ years of experience, specializing in driving digital transformation, enhancing security, and optimizing IT operations. 🚀  I'm passionate about leveraging technology to achieve business goals and create secure, efficient IT environments.
+I'm a highly motivated IT professional with 20+ years of experience, specialising in driving digital transformation, enhancing security, and optimising IT operations. 🚀  I'm passionate about leveraging technology to achieve business goals and create secure, efficient IT environments.
 
 **Technical Skills** 💻
 
