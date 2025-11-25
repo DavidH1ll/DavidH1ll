@@ -9,7 +9,7 @@ I'm a highly motivated IT professional with 20+ years of experience, specialisin
 ### 100 Days of Code - Python Bootcamp
 **Progress: 36/100 Days Complete** 
 
-Working through [Angela Yu's Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/), building projects ranging from basic scripts to complex applications with GUIs, APIs, and web scraping.
+Building projects ranging from basic scripts to complex applications with GUIs, APIs, and web scraping.
 
 **Recent Projects:**
 - 🎯 **Flash Card Learning App** - Tkinter GUI with JSON persistence
