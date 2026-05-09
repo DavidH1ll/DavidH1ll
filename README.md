@@ -28,6 +28,10 @@ Building games and applications entirely in Neovim as part of my learning journe
 
 [📂 View Full Neovim Projects Repository →](https://github.com/DavidH1ll/neovim-projects)
 
+### Other Projects
+
+- 🛒 **[Tanning Pro](https://github.com/DavidH1ll/tanning-pro)** — Local-first tanning salon POS replacing legacy COBOL systems. Next.js 15 + Express + PostgreSQL.
+
 ---
 
 ## 💻 Technical Skills
@@ -49,7 +53,10 @@ Building games and applications entirely in Neovim as part of my learning journe
 
 **Currently Learning:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- Web Development (Next.js, Express)
+- PostgreSQL & Database Design
 - Game Development (Pygame)
 - GUI Development (Tkinter)
 - API Integration
