@@ -21,6 +21,13 @@ Building projects ranging from basic scripts to complex applications with GUIs, 
 
 [📂 View Full 100 Days Repository →](https://github.com/DavidH1ll/100-days-of-Coding)
 
+### Neovim Projects
+Building games and applications entirely in Neovim as part of my learning journey.
+
+- 🐦 **[Flappy Bird Clone](https://github.com/DavidH1ll/flappy-bird)** — Enhanced edition with Pygame: day/night mode, difficulty levels, medals, and persistent leaderboard
+
+[📂 View Full Neovim Projects Repository →](https://github.com/DavidH1ll/neovim-projects)
+
 ---
 
 ## 💻 Technical Skills
@@ -43,6 +50,7 @@ Building projects ranging from basic scripts to complex applications with GUIs, 
 **Currently Learning:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- Game Development (Pygame)
 - GUI Development (Tkinter)
 - API Integration
 - Data Analysis (Pandas)
