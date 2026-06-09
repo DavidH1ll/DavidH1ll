@@ -7,17 +7,17 @@ I'm a highly motivated IT professional with 20+ years of experience, specialisin
 ## 🔥 Current Focus
 
 ### 100 Days of Code - Python Bootcamp
-**Progress: 36/100 Days Complete** 
+**Progress: 100/100 Days Complete!** 🎉 
 
-Building projects ranging from basic scripts to complex applications with GUIs, APIs, and web scraping.
+100 projects completed — from basic scripts to complex applications with GUIs, APIs, web scraping, data science, and machine learning.
 
 **Recent Projects:**
-- 🎯 **Flash Card Learning App** - Tkinter GUI with JSON persistence
-- 🐍 **Snake Game** - Object-oriented game with modular design
-- 🏓 **Pong Clone** - Collision detection and AI paddle
-- 🐢 **Turtle Crossing** - Event-driven programming
-- ✉️ **Mail Merge Automation** - File I/O and string manipulation
-- 📊 **US States Quiz Game** - Pandas data handling
+- 💰 **Earnings Predictor** - ML pipeline with scikit-learn (Day 100)
+- 👾 **Space Invaders** - Classic arcade game (Day 94)
+- 🛒 **Online Shop** - Flask e-commerce with session cart (Day 96)
+- 🏠 **House Price Predictor** - Linear Regression vs Random Forest (Day 80)
+- 📝 **RESTful Blog** - Flask + SQLAlchemy + Flask-Login (Day 69)
+- 🎵 **Musical Time Machine** - Spotify playlist from Billboard charts (Day 46)
 
 [📂 View Full 100 Days Repository →](https://github.com/DavidH1ll/100-days-of-Coding)
 
@@ -25,12 +25,11 @@ Building projects ranging from basic scripts to complex applications with GUIs, 
 Building games and applications entirely in Neovim as part of my learning journey.
 
 - 🐦 **[Flappy Bird Clone](https://github.com/DavidH1ll/flappy-bird)** — Enhanced edition with Pygame: day/night mode, difficulty levels, medals, and persistent leaderboard
+- 🎮 **[Godot 2D Platformer](https://github.com/DavidH1ll/neovim-projects/tree/main/godot-platformer)** — Player physics, tilemap levels, coins, spikes, parallax background
+- 🔫 **[Rogue Shooter](https://github.com/DavidH1ll/neovim-projects/tree/main/rogue-shooter-pygame)** — Top-down roguelike shooter with procedural rooms, bosses, and power-ups
+- 🔐 **[Password Generator](https://github.com/DavidH1ll/neovim-projects/tree/main/password%20generator)** — MSP-focused CLI + Flask web app with company-specific schemes
 
 [📂 View Full Neovim Projects Repository →](https://github.com/DavidH1ll/neovim-projects)
-
-### Other Projects
-
-- 🛒 **[Tanning Pro](https://github.com/DavidH1ll/tanning-pro)** — Local-first tanning salon POS replacing legacy COBOL systems. Next.js 15 + Express + PostgreSQL.
 
 ---
 
